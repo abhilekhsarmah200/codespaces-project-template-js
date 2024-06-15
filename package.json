@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://abhilekhsarmah200.github.io/my-portfolio.git"
+    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "http://abhilekhsarmah200.github.io/my-portfolio/issues"
+    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
